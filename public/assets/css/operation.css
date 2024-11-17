@@ -1,0 +1,35 @@
+.tab-journalisation {
+    background-color: #ffa726; /* Orange */
+    color: #fff;
+}
+
+.tab-alimentation {
+    background-color: #546e7a; /* Gris foncé */
+    color: #fff;
+}
+
+.tab-ramassage-oeufs {
+    background-color: #00bcd4; /* Bleu clair */
+    color: #fff;
+}
+
+.tab-ramassage-litiere {
+    background-color: #ffca28; /* Jaune */
+    color: #fff;
+}
+
+.tab-pesage {
+    background-color: #e53935; /* Rouge */
+    color: #fff;
+}
+
+.tab-eau-traitement {
+    background-color: #43a047; /* Vert */
+    color: #fff;
+}
+
+.nav-tabs .nav-link {
+    border-radius: 0;
+    margin-right: 2px;
+    text-align: center;
+}
